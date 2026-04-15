@@ -1,0 +1,5 @@
+flask
+gunicorn
+python-aternos
+lxml>=5.0.0
+
